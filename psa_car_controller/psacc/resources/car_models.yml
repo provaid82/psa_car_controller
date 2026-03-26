@@ -1,5 +1,5 @@
 - !ElecModel
-  name: e-3008
+  name: E-3008 GT 73 kWh STD
   battery_power: 73
   fuel_capacity: 0
   abrp_name: peugeot:e3008:24:77
